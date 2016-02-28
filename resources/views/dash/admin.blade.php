@@ -21,12 +21,7 @@
         <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
         <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
 
-        <!-- Our Website CSS Styles -->
-        <!-- MetisMenu CSS -->
-        <link rel="stylesheet" href="{{ asset('plugins/css/plugins/metisMenu/metisMenu.min.css') }}">
-
-        <!-- Timeline CSS -->
-        <link rel="stylesheet" href="{{ asset('plugins/css/plugins/timeline.css') }}">
+        
 
         <!-- Custom CSS -->
         <link rel="stylesheet" href="{{ asset('plugins/css/sb-admin-2.css') }}">
